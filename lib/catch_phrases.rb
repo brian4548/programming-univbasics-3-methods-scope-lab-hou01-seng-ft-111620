@@ -5,7 +5,8 @@ def mario
 end
 
 def toadstool
-   #wrong method
+  status = "1hp"
+  puts status #wrong method
 end
 
 def link
